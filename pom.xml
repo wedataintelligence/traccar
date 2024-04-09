@@ -184,7 +184,7 @@
         <dependency>
             <groupId>org.mnode.ical4j</groupId>
             <artifactId>ical4j</artifactId>
-            <version>2.0.5</version> <!-- TODO UPGRADE -->
+            <version>3.0.0</version> <!-- TODO UPGRADE -->
         </dependency>
         <dependency>
             <groupId>org.locationtech.spatial4j</groupId>
